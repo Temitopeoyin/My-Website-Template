@@ -1,0 +1,15 @@
+
+body,*{
+    margin: 0;
+    padding:0;
+}
+nav{
+    background-color: red;
+    color: whitesmoke;
+    font-size: 3rem;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: capitalize  ;
+}
